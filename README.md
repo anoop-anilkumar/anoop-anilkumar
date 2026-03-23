@@ -1,14 +1,13 @@
 # 👋 Hi, I’m Anoop Anilkumar
 
 **Beanhill, Milton Keynes, UK**  
-[LinkedIn](https://linkedin.com/in/anoop-anilkumar) • anoopanilkumar18@gmail.com • +44 7362 611558  
-_Skilled Worker Dependent Visa (Valid until Aug 2028)_
+[LinkedIn](https://linkedin.com/in/anoopanilkumar) • anoopanilkumar18@gmail.com • +44 7362 611558  
 
 ---
 
 ## 🧑‍💻 Professional Summary
 
-Software Developer with ~4 years’ commercial experience, specializing in scalable web and mobile applications using **.NET Core, ASP.NET, Angular, Ionic,** and **Microsoft Azure**. Proven expertise in financial services, mobile banking, and RESTful API development. Skilled in secure coding, CI/CD, and Agile best practices.
+Software Developer with 4 years’ commercial experience, specializing in scalable web and mobile applications using **.NET Core, ASP.NET, Angular, Ionic,** and **Microsoft Azure**. Proven expertise in financial services, mobile banking, and RESTful API development. Skilled in secure coding, CI/CD, and Agile best practices.
 
 **Currently based in the UK and eligible to work without sponsorship (Skilled Worker Dependent visa, valid until Aug 2028).**
 
@@ -17,7 +16,7 @@ Software Developer with ~4 years’ commercial experience, specializing in scala
 ## 🏢 Professional Experience
 
 **Software Engineer**  
-*Cochin Computing Pvt. Ltd. — FinTech (India/Remote), Oct 2021 – Present*
+*Cochin Computing Pvt. Ltd. — FinTech (India/Remote), Oct 2021 – Oct 2025*
 
 - Developed enterprise web apps with **.NET Core**, **Angular**, and **SQL Server**
 - Built secure RESTful APIs, improved data integrity, and reduced manual processes
